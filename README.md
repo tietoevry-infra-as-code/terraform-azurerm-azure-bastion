@@ -1,3 +1,5 @@
+> ## This repository is no longer maintained actively. Please visit https://github.com/kumarvna?tab=repositories for the latest updates.
+
 # Azure Bastion Service Terraform module
 
 The Azure Bastion service is a fully platform-managed PaaS service that provision inside the virtual network. It provides secure and seamless RDP/SSH connectivity to the virtual machines directly in the Azure portal over TLS. When connecting via Azure Bastion, the virtual machines do not need a public IP address.
